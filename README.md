@@ -35,4 +35,17 @@ Here is a run through of how to set up this application:
 ## Known bugs
 Cannot show the users github repositories but the github api request is working well.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Built with
+* Angular CLI Version 9.1.5
+* HTML5
+* CSS3
+* Bootstrap 4.3.1
+
+## Future plans
+* To display the users profile and repositories
+
+## Support and Contact details
+You can contact me via email:stephenremmi@gmal.com
+
+
+
