@@ -16,7 +16,8 @@ Here are the features in summary:
 * A minimalistic landing page with a button that navigates users to the search page.
 * A search page that allows users to search for Github usernames on the search box.
 
-## 
+## Behaviour Driven Development
+
 
 
 ## Running end-to-end tests
