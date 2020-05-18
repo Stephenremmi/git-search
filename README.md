@@ -18,9 +18,9 @@ Here are the features in summary:
 
 ## Behaviour Driven Development
 
-
-
-## Running end-to-end tests
+## Requirements
+To run this app on your text editor you will need the following:
+* Node:For installation instructions follow this link:[https://nodejs.org/en/download/package-manager/]
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
