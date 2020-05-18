@@ -32,6 +32,7 @@ Here is a run through of how to set up this application:
 * **Step4**:Run **ng serve** on the terminal for a dev server.Navigate to http://localhost:4200/.The app will automatically reload if you change any of the source files.
 
 
-## Further help
+## Known bugs
+Cannot show the users github repositories but the github api request is working well.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
