@@ -11,9 +11,10 @@ This is a web application that uses github api to show github users profile and 
 Here is a link to the live site:https://stephenremmi.github.io/git-search/
 
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Features
+Here are the features in summary:
+* A minimalistic landing page with a button that navigates users to the search page.
+* A search page that allows users to search for Github usernames on the search box.
 
 ## Running unit tests
 
