@@ -7,7 +7,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 This project was generated with[Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
 This is a web application that uses github api to show github users profile and their repositories.
 
-## Code scaffolding
+## Demo
+Here is a link to the live site 
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
