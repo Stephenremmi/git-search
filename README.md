@@ -23,6 +23,10 @@ To run this app on your text editor you will need the following:
 * Node:For installation instructions follow this [link](https://nodejs.org/en/download/package-manager/)
 * Angular CLI version 9.1.5:Installation for angular is described [here](https://www.nodenpm.com/@angular/cli/9.1.5/detail.html)
 
+## Installation and set up
+To view the app,open the live site link provided above on the demo section of this README.
+Here is a run through of how to set up this application:
+* **Step1**:Clone this repository using **** or download the zip file of the code.
 
 
 ## Further help
