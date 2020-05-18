@@ -5,8 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # GitSearch
 ### by Stephen Remmi
 This project was generated with[Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
-
-
+This is a web application that uses github api to show github users profile and their repositories.
 
 ## Code scaffolding
 
