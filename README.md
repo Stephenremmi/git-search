@@ -16,9 +16,8 @@ Here are the features in summary:
 * A minimalistic landing page with a button that navigates users to the search page.
 * A search page that allows users to search for Github usernames on the search box.
 
-## Running unit tests
+## 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
 
