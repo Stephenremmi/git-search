@@ -20,7 +20,7 @@ Here are the features in summary:
 
 ## Requirements
 To run this app on your text editor you will need the following:
-* Node:For installation instructions follow this [link](ttps://nodejs.org/en/download/package-manager/)
+* Node:For installation instructions follow this [link](https://nodejs.org/en/download/package-manager/)
 * Angular CLI version 9.1.5:Installation for angular is described [here](https://www.nodenpm.com/@angular/cli/9.1.5/detail.html)
 
 
