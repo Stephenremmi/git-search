@@ -10,7 +10,6 @@ This is a web application that uses github api to show github users profile and 
 ## Demo
 Here is a link to the live site:https://stephenremmi.github.io/git-search/
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
